@@ -38,8 +38,8 @@ CREATE TABLE `crud_native` (
 --
 
 INSERT INTO `crud_native` (`id`, `nama`, `uname`, `password`) VALUES
-(1, 'odos lagi', 'odos_lagi', 'd09532b9be7398b2a571252fe3f6f536'),
-(2, 'odos', 'odos', 'd09532b9be7398b2a571252fe3f6f536');
+(1, 'sodaqohsc lagi', 'sodaqohsc_lagi', 'd09532b9be7398b2a571252fe3f6f536'),
+(2, 'sodaqohsc', 'sodaqohsc', 'd09532b9be7398b2a571252fe3f6f536');
 
 --
 -- Indexes for dumped tables
@@ -59,7 +59,7 @@ ALTER TABLE `crud_native`
 -- AUTO_INCREMENT for table `crud_native`
 --
 ALTER TABLE `crud_native`
-  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=6;
+  MODIFY `id` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=3;
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
