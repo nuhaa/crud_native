@@ -13,5 +13,5 @@ Creator				: sodaqohsc
 1. Silakan sebarkan source code ini apabila
 	memang bisa bermanfaat bagi yang lain
 2. Kami tidak bertanggung jawab atas apapun
-	kerusakan atau kerugian setelah penggu-
-	naan aplikasi ini
+	kerusakan atau kerugian setelah penggunaan 
+	aplikasi ini
